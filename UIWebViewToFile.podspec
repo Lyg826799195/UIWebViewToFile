@@ -17,7 +17,7 @@ s.platform     = :ios, "7.0"
 s.source       = { :git => "https://github.com/Lyg826799195/UIWebViewToFile", :tag => "1.0.3"}
 
 
-s.source_files  = "UIWebViewToFile/Lib/UIWebViewToFile/**/*.{h,m}"
+s.source_files  = "UIWebViewToFile/UIWebView+ToFile.h"
 
 
 s.requires_arc = true
